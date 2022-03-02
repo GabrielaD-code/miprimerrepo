@@ -1,0 +1,2 @@
+Ya me ha salido al fin, OJO no crear los directorios usando SUDO
+después no me deja hacer nada dentro
